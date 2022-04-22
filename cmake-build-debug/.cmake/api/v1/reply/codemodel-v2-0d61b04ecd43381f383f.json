@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "NoGo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Combine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Combine-Debug-4b09a784904d291685d5.json",
+					"name" : "Combine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Combine_Plus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Combine_Plus-Debug-04f53f7157633ed2e8c7.json",
+					"name" : "Combine_Plus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MCTS_UCT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MCTS_UCT-Debug-7079497abd43632799e8.json",
+					"name" : "MCTS_UCT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NoGo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NoGo-Debug-4ac66175da568a921245.json",
+					"name" : "NoGo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example-Debug-29f5877c62730f99744f.json",
+					"name" : "example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main06-Debug-63619203e47a53fbdfda.json",
+					"name" : "main06",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main_debug::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main_debug-Debug-96e82ff2860881922da6.json",
+					"name" : "main_debug",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main_debug2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main_debug2-Debug-d053b71caf77d72d6d94.json",
+					"name" : "main_debug2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main_expandall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main_expandall-Debug-c7b2140327d246443849.json",
+					"name" : "main_expandall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sss::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sss-Debug-dca464e5e931f4287a68.json",
+					"name" : "sss",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/ClionProjects/NoGo/cmake-build-debug",
+		"source" : "F:/ClionProjects/NoGo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
